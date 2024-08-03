@@ -1,10 +1,12 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "a8f170fbaeb39ae668a88f929a488374058c2a1a33e119621e3d2ddff231ff17"
+            "sha256": "7f7606f08e0544d8d012ef4d097dabdd6df6843a28793eb6551245d4b2db4242"
         },
         "pipfile-spec": 6,
-        "requires": {},
+        "requires": {
+            "python_version": "3.8"
+        },
         "sources": [
             {
                 "name": "pypi",
@@ -13,24 +15,6 @@
             }
         ]
     },
-    "default": {
-        "docai": {
-            "editable": true,
-            "path": "."
-        },
-        "this-package": {
-            "editable": true,
-            "path": "."
-        }
-    },
-    "develop": {
-        "docai": {
-            "editable": true,
-            "path": "."
-        },
-        "this-package": {
-            "editable": true,
-            "path": "."
-        }
-    }
+    "default": {},
+    "develop": {}
 }

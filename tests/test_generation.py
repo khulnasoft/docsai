@@ -1,6 +1,6 @@
 import hashlib
 
-from docai import MarkdownGenerator
+from docsai import MarkdownGenerator
 
 
 def test_import2md() -> None:
@@ -21,7 +21,7 @@ def test_class2md() -> None:
 
 def test_module2md() -> None:
     generator = MarkdownGenerator()
-    from docai import generation
+    from docsai import generation
 
     markdown = generator.module2md(generation)
     # Remove whitespaces: fix changes between py version 3.6 3.7 in signature method

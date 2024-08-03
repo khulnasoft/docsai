@@ -24,7 +24,7 @@ _RE_QUOTE_TEXT = re.compile(r"(Notes:|Note:).{0,2}$", re.IGNORECASE)
 _RE_TYPED_ARGSTART = re.compile(r"([\w\[\]_]{1,}?)\s*?\((.*?)\):(.{2,})", re.IGNORECASE)
 _RE_ARGSTART = re.compile(r"(.{1,}?):(.{2,})", re.IGNORECASE)
 
-_IGNORE_GENERATION_INSTRUCTION = "docai: ignore"
+_IGNORE_GENERATION_INSTRUCTION = "docsai: ignore"
 
 # String templates
 
@@ -85,7 +85,7 @@ _WATERMARK_TEMPLATE = """
 
 ---
 
-_This file was automatically generated via [docai](https://github.com/khulnasoft/docai)._
+_This file was automatically generated via [docsai](https://github.com/khulnasoft/docsai)._
 """
 
 _MKDOCS_PAGES_TEMPLATE = """title: API Reference

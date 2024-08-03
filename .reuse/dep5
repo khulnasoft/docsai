@@ -1,8 +1,8 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: docai
+Upstream-Name: docsai
 Upstream-Contact: KhulnaSoft DevOps <info@khulnasoft.com>
                   Md Mamun <iconmamundentist@gmail.com>
-Source: https://github.com/khulnasoft/docai
+Source: https://github.com/khulnasoft/docsai
 
 Files: **
 Copyright: KhulnaSoft Ltd, gitworkflows, nxpkg

@@ -4,18 +4,18 @@
 
 ## Modules
 
-- [`docai.generation`](./docai.generation.md#module-docaigeneration): Main module for markdown generation.
+- [`docsai.generation`](./docsai.generation.md#module-docsaigeneration): Main module for markdown generation.
 
 ## Classes
 
-- [`generation.MarkdownGenerator`](./docai.generation.md#class-markdowngenerator): Markdown generator class.
+- [`generation.MarkdownGenerator`](./docsai.generation.md#class-markdowngenerator): Markdown generator class.
 
 ## Functions
 
-- [`generation.generate_docs`](./docai.generation.md#function-generate_docs): Generates markdown documentation for provided paths based on Google-style docstrings.
-- [`generation.to_md_file`](./docai.generation.md#function-to_md_file): Creates an API docs file from a provided text.
+- [`generation.generate_docs`](./docsai.generation.md#function-generate_docs): Generates markdown documentation for provided paths based on Google-style docstrings.
+- [`generation.to_md_file`](./docsai.generation.md#function-to_md_file): Creates an API docs file from a provided text.
 
 
 ---
 
-_This file was automatically generated via [docai](https://github.com/khulnasoft/docai)._
+_This file was automatically generated via [docsai](https://github.com/khulnasoft/docsai)._

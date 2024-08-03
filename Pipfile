@@ -4,10 +4,8 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-this-package = {editable = true, path = "."}
 
 [dev-packages]
-this-package = {editable = true, extras = ["dev"], path = "."}
 
-[pipenv]
-allow_prereleases = true
+[requires]
+python_version = "3.8"

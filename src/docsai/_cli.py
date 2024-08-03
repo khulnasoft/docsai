@@ -1,10 +1,10 @@
-"""Command line interface of docai."""
+"""Command line interface of docsai."""
 
 from typing import List, Optional
 
 import typer
 
-from docai import generate_docs
+from docsai import generate_docs
 
 app = typer.Typer()
 

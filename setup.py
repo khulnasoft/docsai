@@ -9,9 +9,9 @@ from setuptools import find_packages, setup  # type: ignore
 
 # Package Metadata
 NAME = "docsai"
-MAIN_PACKAGE = "docai"  # Change if main package != NAME
+MAIN_PACKAGE = "docsai"  # Change if main package != NAME
 DESCRIPTION = "Generate markdown API documentation for Google-style Python docstring."
-URL = "https://github.com/khulnasoft/docai"
+URL = "https://github.com/khulnasoft/docsai"
 EMAIL = "info@khulnasoft.com"
 AUTHOR = "KhulnaSoft DevOps"
 LICENSE = "MIT"
@@ -62,7 +62,7 @@ setup(
             "pydocstyle",
             "isort",
             'ml-buildkit',
-            # docai - do not add, otherwise the generation will not work
+            # docsai - do not add, otherwise the generation will not work
         ],
     },
     include_package_data=True,
