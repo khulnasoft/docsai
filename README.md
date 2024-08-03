@@ -225,4 +225,4 @@ Refer to our [contribution guides](https://github.com/khulnasoft/docai/blob/main
 
 ---
 
-Licensed **MIT**. Created and maintained with ❤️&nbsp; by developers from Berlin.
+Licensed **MIT**. Created and maintained with ❤️&nbsp; by developers from KhulnaSoft.
