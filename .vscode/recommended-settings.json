@@ -1,5 +1,4 @@
 {
-  // Move these settings to the settings.json in your workspace
   "terminal.integrated.scrollback": 10000,
   "[json]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode",
@@ -9,7 +8,6 @@
     "editor.defaultFormatter": "redhat.vscode-yaml",
     "editor.formatOnSave": true
   },
-  // Python Settings
   "[python]": {
     "editor.formatOnPaste": false,
     "editor.defaultFormatter": "ms-python.python",

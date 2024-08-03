@@ -45,8 +45,7 @@ def generate(
     output_format: Optional[str] = typer.Option(
         None,
         help="The output format for the creation of the markdown files. This may be 'md' or 'mdx'. Defaults to md.",
-    )
-        
+    ),
 ) -> None:
     """Generates markdown documentation for your Python project based on Google-style docstrings."""
 
