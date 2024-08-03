@@ -8,7 +8,7 @@ from os.path import basename, splitext
 from setuptools import find_packages, setup  # type: ignore
 
 # Package Metadata
-NAME = "docai"
+NAME = "docsai"
 MAIN_PACKAGE = "docai"  # Change if main package != NAME
 DESCRIPTION = "Generate markdown API documentation for Google-style Python docstring."
 URL = "https://github.com/khulnasoft/docai"
