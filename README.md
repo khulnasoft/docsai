@@ -80,8 +80,6 @@ With the default configuration, the Markdown documentation will be generated ins
 
 ### Source Code Linking
 
-<img style="width: 100%" src="https://raw.githubusercontent.com/khulnasoft/docai/main/docs/images/source-linking.png"/>
-
 DocAI is capable to insert a badge on the right side of every module, class, method or function with a link the correct source-code file and line number. The default configuration will create relative paths to navigate within the Github Repo. This is useful if the documentation is hosted within the same repository as the source-code. If, the documentation is hosted outside of the Github repository, it is recommended to set the `src-base-url`:
 
 ```bash
