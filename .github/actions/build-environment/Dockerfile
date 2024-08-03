@@ -1,1 +1,1 @@
-FROM khulnasoft/build-environment:0.6.12
+FROM khulnasoft/build-environment:0.6.18
