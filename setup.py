@@ -61,6 +61,7 @@ setup(
             "black",
             "pydocstyle",
             "isort",
+            'ml_buildkit',
             # docai - do not add, otherwise the generation will not work
         ],
     },
