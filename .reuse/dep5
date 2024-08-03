@@ -5,5 +5,5 @@ Upstream-Contact: KhulnaSoft DevOps <info@khulnasoft.com>
 Source: https://github.com/khulnasoft/docai
 
 Files: **
-Copyright: Lukas Masuch, Benjamin Raehtlein, and Jan Kalkan
+Copyright: KhulnaSoft Ltd, gitworkflows, nxpkg
 License: MIT
