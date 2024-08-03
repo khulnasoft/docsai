@@ -1,0 +1,17 @@
+{
+  "recommendations": [
+    // General Development
+    "EditorConfig.EditorConfig",
+    "redhat.vscode-yaml",
+    "esbenp.prettier-vscode",
+    // Collaboration
+    "aaron-bond.better-comments",
+    // Markdown
+    "DavidAnson.vscode-markdownlint",
+    "yzhang.markdown-all-in-one",
+    "shd101wyy.markdown-preview-enhanced",
+    // Python Development
+    "ms-python.python",
+    "njpwerner.autodocstring"
+  ]
+}
